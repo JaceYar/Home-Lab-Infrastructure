@@ -6,7 +6,7 @@
 
 | 📖 Overview | |
 | :--- | :---: |
-| This repository documents the technical architecture of my private research laboratory. Built on **Proxmox**, this environment is a dedicated sandbox for: <br><br> <ul><li>**Networking Fundamentals:** Layer 2/3 switching, VLAN segmentation, and infrastructure basics.</li><li>**Defense-in-Depth:** Deploying SIEM solutions like **Wazuh** for real-time threat monitoring.</li><li>**Red Team Simulations:** Isolated penetration testing against targets like **Metasploitable** and **DVWA**.</li><li>**Software Validation:** Testing personally built networking tools, such as my **C++ Packet Sniffer**.</li></ul> | <img src="media/rack-angled.png" width="400" alt="Homelab Rack"> |
+| This repository documents the technical architecture of my personal Homelab. Built on **Proxmox**, this environment is a dedicated sandbox for: <br><br> <ul><li>**Networking Fundamentals:** Layer 2/3 switching, VLAN segmentation, and infrastructure basics.</li><li>**Defense-in-Depth:** Deploying SIEM solutions like **Wazuh** for real-time threat monitoring.</li><li>**Red Team Simulations:** Isolated penetration testing against targets like **Metasploitable** and **DVWA**.</li><li>**Software Validation:** Testing personally built networking tools, such as my **C++ Packet Sniffer**.</li></ul> | <img src="media/rack-angled.png" width="400" alt="Homelab Rack"> |
 ---
 
 ## 🔧 Core Infrastructure Tech Stack
