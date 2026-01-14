@@ -1,16 +1,12 @@
 # 🏗️ Home Lab Infrastructure
 **The virtualization and networking foundation for cybersecurity research and systems engineering.**
 
+
 ---
 
-## 📖 Overview
-This repository documents the technical architecture of my private research laboratory. Built on **Proxmox**, this environment is designed as a professional sandbox for:
-
-* **Networking Fundamentals:** Mastering Layer 2/3 switching, VLAN segmentation, and infrastructure basics.
-* **Defense-in-Depth:** Deploying and managing SIEM solutions like Wazuh for real-time monitoring.
-* **Red Team Simulations:** Creating isolated segments for penetration testing against targets like Metasploitable and DVWA.
-* **Software Validation:** Providing a stable environment to test personally built networking applications, such as my **C++ Packet Sniffer**.
-
+| 📖 Overview | |
+| :--- | :---: |
+| This repository documents the technical architecture of my private research laboratory. Built on **Proxmox**, this environment is a dedicated sandbox for: <br><br> <ul><li>**Networking Fundamentals:** Layer 2/3 switching, VLAN segmentation, and infrastructure basics.</li><li>**Defense-in-Depth:** Deploying SIEM solutions like **Wazuh** for real-time threat monitoring.</li><li>**Red Team Simulations:** Isolated penetration testing against targets like **Metasploitable** and **DVWA**.</li><li>**Software Validation:** Testing personally built networking tools, such as my **C++ Packet Sniffer**.</li></ul> | <img src="media/rack-angled.png" width="400" alt="Homelab Rack"> |
 ---
 
 ## 🔧 Core Infrastructure Tech Stack
