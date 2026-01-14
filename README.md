@@ -44,7 +44,7 @@ I am utilizing this infrastructure to test a personally developed packet sniffer
 ---
 
 ## 📫 Contact
-* **LinkedIn:** [Jace Yarborough](https:://www.linkedin.com/in/jace-yarborough-522b6429a)
+* **LinkedIn:** [Jace Yarborough](https://www.linkedin.com/in/jace-yarborough-522b6429a/)
 * **Email:** jaceyarborough@proton.me
 
 ---
